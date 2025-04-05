@@ -4,6 +4,7 @@
     "name": "Pixel Pick",
     "description": "A minimalist eyedropper tool.",
     "author": "alexglan",
+    "homepage_url": "https://github.com/AlexGlan/pixel-pick",
     "action": {
         "default_title": "Eyedropper",
         "default_popup": "index.html"
